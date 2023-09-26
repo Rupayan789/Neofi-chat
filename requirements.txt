@@ -1,0 +1,5 @@
+daphne
+djangorestframework
+django-cors-headers
+django
+channels
